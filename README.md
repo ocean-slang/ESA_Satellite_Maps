@@ -9,6 +9,6 @@ ESA and NASA use different data structures. NASA stores all parameters in one Ne
 Download M_map (https://www.eoas.ubc.ca/~rich/map.html) and move to functions folder.
 Store Sentinel-3 file folders in data folder.
 
-# Downloading Sentinel-2 or other OLCI images: 
+# Downloading Ocean Color Data:
 I recommending using getOC: https://github.com/OceanOptics/getOC
 It's a fantastic batch download tool.
