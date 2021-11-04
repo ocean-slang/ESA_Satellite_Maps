@@ -7,6 +7,7 @@ cd '/Volumes/slangSSD/Documents/smode_pilot_olci/';
 % Add functions to path
 addpath('/Volumes/slangSSD/Documents/smode_pilot_olci/functions')
 addpath('/Volumes/slangSSD/Documents/smode_pilot_olci/functions/m_map')
+load coastlines 
 
 % Loop Through Directory
 sdir = dir('/Volumes/slangSSD/Documents/smode_pilot_olci/data/*SEN3');
